@@ -1,2 +1,2 @@
-# .github
-Description for the repo
+# Xiaomi Poco M8 Pro 5G / Redmi Note 15 Pro+ 5G Custom Rom Sources
+Things are still heavily WIP over here... better wait
