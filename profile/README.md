@@ -1,4 +1,6 @@
-<h1 align="center">Flourite</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xiaomi-flourite-sm7635/.github/main/profile/assets/flourite-banner.png" alt="Flourite — LineageOS" width="100%">
+</p>
 
 <p align="center">
   <strong>LineageOS 24</strong> &nbsp; / &nbsp; <strong>Google ACK 6.1</strong> &nbsp; / &nbsp; <strong>Source-built kernel</strong>
